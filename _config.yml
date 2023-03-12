@@ -1,18 +1,17 @@
-title:              "블로그 제목"
-tagline:            "블로그 슬로건"
-email:              "your-email@example.com"
-description:        "블로그 설명"
-author:             "작성자 이름"
+title:              "밍통방통"
+tagline:            "坚持到底就是胜利"
+email:              "kimminji971031@gmail.com"
+description:        "세상에 다양한 트렌드를 공유하는 블로그"
+author:             "김민지"
 baseurl:            "/"
-url:                "https://도메인"
+url:                "https://mingluv.github.io"
 locale:             "ko_KR"
-thumbnail:          "/img/thumbnail.jpg"
+thumbnail:          "img/bg-index.jpg"
 
 # Social Profiles
-twitter_username:   twitter_username
-instagram_username: instagram_username
-facebook_username:  facebook_username
-linkedin_username:  linkedin_username
+twitter_username:   miing_luv
+instagram_username: mingluv_daily
+linkedin_username:  in/mingluv/
 
 # Build settings
 markdown:           kramdown
