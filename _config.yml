@@ -1,5 +1,5 @@
-title:              "밍통방통"
-tagline:            "坚持到底就是胜利"
+title:              "Cloud Trend"
+tagline:            "몽글몽글 구름 한 점 가져가세요"
 email:              "kimminji971031@gmail.com"
 description:        "세상에 다양한 트렌드를 공유하는 블로그"
 author:             "김민지"
@@ -11,7 +11,7 @@ thumbnail:          "img/bg-index.jpg"
 # Social Profiles
 twitter_username:   miing_luv
 instagram_username: mingluv_daily
-linkedin_username:  in/mingluv/
+linkedin_username:  mingluv
 
 # Build settings
 markdown:           kramdown
